@@ -1,0 +1,5 @@
+{
+  "name": "Parenting Schedule",
+  "description": "A simple parenting schedule tracker with weekly alternating custody starting Sundays at 6 PM.",
+  "requestFramePermissions": []
+}
